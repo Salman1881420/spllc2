@@ -1,8 +1,8 @@
 {
-  "name": "QUEEN ELISA BOT 2.3.0 V",
+  "name": "Spllc Bot",
   "description": "whatsapp md bot build with nodejs",
   "repository": "https://github.com/DarkMakerofc/Queen-Elisa-MD-V2",
-  "logo": "https://telegra.ph/file/30e4c947775ac2a0d2897.jpg",
+  "logo": "https://telegra.ph/file/9323f5a2e1c1f268a462b.jpg",
   "keywords": ["nodejs", "simple whatsapp bot","whatsapp"],
 
   "env": {
